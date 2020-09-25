@@ -6,4 +6,6 @@ rename -help 帮助
        -name 重命名前缀
        
 使用效果
-![rename_0](https://image.guiyunweb.com/2020/09/rename_0_1600998340480.png)
+
+
+![rename_0](http://image.guiyunweb.com/2020/09/rename_0_1600998340480.png)
